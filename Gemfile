@@ -58,3 +58,5 @@ end
 
 #generate fake data
 gem "faker"
+
+gem "csv"
